@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 5px solid black ;
+}
+
+.logoicon {
+    height: 200px;
+}
+
+.themeicon {
+    height: 80px;
+
+}
+
+.menuicon {
+    height: 90px;
+    margin-right: 50px;
+    margin-left: 50px;
+
+}
+.paraintro {
+    margin-top: 80px;
+    border-radius: 20px;
+    width: 50%;
+    height: 80%;
+    padding: 20px;
+    text-align: start;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    border: 10px solid white;
+    margin-top: 100px;
+    box-shadow: 20px 20px 20px 2px beige;
+}
+.intro {
+    font-family: sans-serif;
+    font-size: 50px;
+    background-color: beige;
+    border-radius: 20px;
+    padding: 40px;
+}
